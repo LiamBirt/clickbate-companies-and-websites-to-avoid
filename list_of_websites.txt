@@ -1,0 +1,6 @@
+Company: Academia Edu
+Context: Produces guides and offers them as a subscription service
+Path-to-page: Google search: "free" AND "AWS guides"
+Page: https://www.academia.edu/RegisterToDownload/BulkDownload
+Result: The company states that one needs to "Sign up with Facebook or Google" in order to download the AWS Solutions Architect Associate (SAA) with no reference to the subscription or cost beforehand. One clicks on Facebook or Google, thus giving Academia.edu access to their sensitive and personal life information - as well as whatever else is in the terms and conditions in terms of their access to the life information within your network - and furthermore prevents you from downloading until you pay for a subscription.
+Result Classification: unethical
